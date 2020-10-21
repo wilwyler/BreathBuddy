@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: 9bb9e08ebe25f2f44967755c0308a2c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -303271738556821216
+    second: creature-blink-animation_0
+  - first:
+      213: -5624330180934705037
+    second: creature-blink-animation_1
+  - first:
+      213: -3466419403400051510
+    second: creature-blink-animation_2
+  - first:
+      213: -2817372195552337221
+    second: creature-blink-animation_3
+  - first:
+      213: 6250848006524955047
+    second: creature-blink-animation_4
+  - first:
+      213: 7772822368910287573
+    second: creature-blink-animation_5
+  - first:
+      213: -5134496590833331699
+    second: creature-blink-animation_6
+  - first:
+      213: 2711287697090612770
+    second: creature-blink-animation_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: creature-blink-animation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 547
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021d7e8e5ff8acbf0800000000000000
+      internalID: -303271738556821216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creature-blink-animation_2
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 548
+        width: 564
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac481d12bedc4efc0800000000000000
+      internalID: -3466419403400051510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creature-blink-animation_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 545
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9e0edb4297fb650800000000000000
+      internalID: 6250848006524955047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creature-blink-animation_6
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 23
+        width: 569
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02dceaed8a9eb8b0800000000000000
+      internalID: -5134496590833331699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -650, y: -162}
+      - {x: -677, y: -185}
+      - {x: -677, y: -392}
+      - {x: -455, y: -392}
+      - {x: -455, y: -169}
+      - {x: -476, y: -162}
+    - - {x: -355, y: -162}
+      - {x: -357, y: -164}
+      - {x: -357, y: -368}
+      - {x: -350, y: -392}
+      - {x: -153, y: -392}
+      - {x: -133, y: -381}
+      - {x: -133, y: -169}
+      - {x: -155, y: -162}
+    - - {x: 155, y: -157}
+      - {x: 106, y: -214}
+      - {x: 106, y: -342}
+      - {x: 172, y: -371}
+      - {x: 278, y: -371}
+      - {x: 320, y: -346}
+      - {x: 320, y: -184}
+      - {x: 265, y: -157}
+    - - {x: 486, y: -152}
+      - {x: 467, y: -163}
+      - {x: 443, y: -223}
+      - {x: 443, y: -307}
+      - {x: 462, y: -335}
+      - {x: 501, y: -366}
+      - {x: 630, y: -366}
+      - {x: 657, y: -312}
+      - {x: 657, y: -180}
+      - {x: 593, y: -152}
+    - - {x: -630, y: 358}
+      - {x: -677, y: 339}
+      - {x: -677, y: 206}
+      - {x: -646, y: 154}
+      - {x: -499, y: 154}
+      - {x: -475, y: 203}
+      - {x: -475, y: 336}
+      - {x: -499, y: 358}
+    - - {x: -278, y: 358}
+      - {x: -337, y: 325}
+      - {x: -337, y: 197}
+      - {x: -282, y: 154}
+      - {x: -173, y: 154}
+      - {x: -133, y: 208}
+      - {x: -133, y: 330}
+      - {x: -159, y: 358}
+    - - {x: 113, y: 392}
+      - {x: 111, y: 389}
+      - {x: 111, y: 195}
+      - {x: 164, y: 154}
+      - {x: 274, y: 154}
+      - {x: 333, y: 174}
+      - {x: 333, y: 392}
+    - - {x: 493, y: 392}
+      - {x: 467, y: 381}
+      - {x: 467, y: 203}
+      - {x: 529, y: 154}
+      - {x: 664, y: 154}
+      - {x: 677, y: 212}
+      - {x: 677, y: 392}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
